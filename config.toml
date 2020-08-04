@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 theme = "hugo-scroll"
-themesDir = "themes/"
+themesDir = "../.."
 
 # The "title" of your website
 title = "Jane Doe - Nutrition Coach & Chef Consultant"
