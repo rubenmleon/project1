@@ -453,7 +453,7 @@
        height: 100%;
        margin-bottom: 0rem;
        text-align: center;
-       color: #fff;
+       color: #272727;
        background: #B80135 no-repeat center center;
        background-size: cover;
    }
@@ -547,10 +547,10 @@
        color: white;
    }
    a.fn-item:hover {
-       color: #ba0000;
+       color: #ecf3f5;
    }
    a.fn-item.active {
-       color: #cf0000;
+       color: #ecf3f5;
        opacity: 1;
 
    }
