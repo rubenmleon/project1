@@ -6,4 +6,4 @@ header_menu: true
 
 ![Profile Picture](images/Profile-Ruben.jpg)
 
-Director de Fotografía y estudiante en la Universidad de Málaga. Ha trabajado tanto en cortometrajes como en cobertura de eventos en vivo, durante el 2019 ha residido en Noruega y estudiado en la Høgskulen i Volda donde ganó experiencia en el mundo del audiovisual creando videos de naturaleza para diversas empresas de turismo alrededor del país.
+I’m a 23 years old aspiring DP and Editor originally from Málaga, Spain. I’ve been making movies since I was 12 years old and I recently finished a Bachelor in Audiovisual Communication. In 2019 I lived in Norway and studied at the Høgkulen i Volda, during this time I worked doing nature videos for different tourism companies around the country. I’ve also worked in narrative short films and event coverage. I have a knack for everything visual and I’m always trying to learn something new and expand my skill set.

@@ -193,7 +193,7 @@
    a.btn {
 
        text-decoration: none;
-       background-color: #cf0000;
+       background-color: #890000;
        border-radius: 6px;
        -webkit-border-radius: 6px;
        color: white;
@@ -515,7 +515,7 @@
    .post-holder {
        width:100%;
        height: 100%;
-       background: #ca0000;
+       background: #890000;
        position: relative;
    }
    .post-holder.odd {
