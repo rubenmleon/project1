@@ -6,4 +6,4 @@ header_menu: true
 
 ![Profile Picture](images/Profile-Ruben.jpg)
 
-I’m a 23 years old aspiring DP and Editor originally from Málaga, Spain. I’ve been making movies since I was 12 years old and I recently finished a Bachelor in Audiovisual Communication. In 2019 I lived in Norway and studied at the Høgkulen i Volda, during this time I worked doing nature videos for different tourism companies around the country. I’ve also worked in narrative short films and event coverage. I have a knack for everything visual and I’m always trying to learn something new and expand my skill set.
+Hi! I’m Rubén. I’m a 23 yo aspiring DP and a total Deakins freak. I’ve been making movies since I was 12 and I just finished a Bachelor in Audiovisual Communication. I’m a very curious person and I can do a bit of everything. I can write, DP, edit, do some VFX and cook a mean falafel. I spent 2018 shooting projects for different clients around Norway with the Høgskulen i Volda and I learned some good work ethics and the importance of always having a second pair of dry socks. I’m excited to start my career and find a cool team to be part of.

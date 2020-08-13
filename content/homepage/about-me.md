@@ -8,14 +8,16 @@ header_menu: true
   <iframe src="https://www.youtube.com/embed/SADLtciQ-Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+"The story of a father and his daughter drifting away as she finds independence and escapes her father’s life routine."
+
+I was the DP and editor on this project shot in 2019 as a class project for the Høgskulen i Volda. The idea behind a semi-locked camera and the one location approach was to trap the spectator in a dreary environment created by the protagonist’s difficult relationship.
 
 ---
 <div class="video-iframe">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/z4JjiIijmUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+I shot and edited this commercial for B&B Touring as part of a bigger project organised by Visit Harstad to showcase the different activities available in the city
 
 ---
 
