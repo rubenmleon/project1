@@ -9,7 +9,7 @@ theme = "hugo-scroll"
 themesDir = "themes"
 
 # The "title" of your website
-title = "Rubén León - DP | Editor"
+title = "Rubén León"
 
 [markup.goldmark.renderer]
   unsafe=true
@@ -20,7 +20,7 @@ title = "Rubén León - DP | Editor"
     copyright = "© Jane Doe"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "DP | Editor"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -29,16 +29,16 @@ title = "Rubén León - DP | Editor"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/Profile-Ruben.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Rubén León - DP | Editor"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "Rubén, León, DP, Editor,"
