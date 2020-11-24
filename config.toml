@@ -1,4 +1,4 @@
-baseURL = "https://epic-euler-ccd3b5.netlify.app"
+baseURL = "http://www.rubenleon.net"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
