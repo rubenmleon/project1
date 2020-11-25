@@ -1,5 +1,5 @@
 ---
 header_image: "images/Volda.jpg"
 header_headline: "Rubén León"
-header_subheadline: "DP | Editor"
+header_subheadline: "Cinematographer | Editor"
 ---
