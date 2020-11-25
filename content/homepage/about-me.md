@@ -24,4 +24,4 @@ I was the DP and editor on this project shot in 2019 as a class project for the 
   <iframe src="https://player.vimeo.com/video/483062301?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-I shot and edited this commercial for B&B Touring as part of a bigger project organised by Visit Harstad to showcase the different activities available in the city
+I shot and edited this commercial for B&B Touring as part of the Coolinary campaign organised by Visit Harstad, to showcase the different activities available in the city
