@@ -115,13 +115,13 @@
    }
    ::-moz-selection {
        color: #222;
-       background: #cf0000;
+       background: #ff0770;
        text-shadow: none;
    }
 
    ::selection {
        color: #222;
-       background: #84A98C;
+       background: #ff0770;
        text-shadow: none;
    }
    .left {

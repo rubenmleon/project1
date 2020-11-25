@@ -7,4 +7,4 @@ E-Mail: [leon.mruben@gmail.com](mailto:leon.mruben@gmail.com)
 
 Tel.: +34 618 05 58 71
 
-Let's ge in-touch!
+Let's get in-touch!
