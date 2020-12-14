@@ -12,7 +12,7 @@ Alex, tortured by the pain of an unexpected break-up after a long relationship, 
 
 My writing partner and I co-wrote a 26 page script for our bachelor thesis for which we got honours, and adapted it as a proof of concept film that we shot in October. I was the DP, editor, and did the VFX using After Effects and Blender.
 
-![happy joe vfx breakdown)](../images/vfx.gif) width="640" height="338"
+![happy joe vfx breakdown)](../images/vfx.gif)
 
 
 ---
