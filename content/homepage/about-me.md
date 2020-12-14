@@ -12,6 +12,9 @@ Alex, tortured by the pain of an unexpected break-up after a long relationship, 
 
 My writing partner and I co-wrote a 26 page script for our bachelor thesis for which we got honours, and adapted it as a proof of concept film that we shot in October. I was the DP, editor, and did the VFX using After Effects and Blender.
 
+<div class="video-iframe">
+  <iframe src="https://giphy.com/embed/Z06Lv11HkaQhOh0VHA" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 ---
   <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/483205268?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
