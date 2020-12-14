@@ -14,11 +14,6 @@ My writing partner and I co-wrote a 26 page script for our bachelor thesis for w
 
 ![happy joe vfx breakdown)](../images/vfx.gif)
 
-<div class="video-iframe">
-  <iframe src="https://giphy.com/gifs/Z06Lv11HkaQhOh0VHA/html5" width="640" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-
 ---
   <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/483205268?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
